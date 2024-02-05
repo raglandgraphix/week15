@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.border{
+  border: thin solid black;
+}
+form{
+  border-top: solid thin red;
+  margin-top:25px;
+  margin-bottom:25px;
+}
